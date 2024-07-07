@@ -1,0 +1,13 @@
+{
+  "prefix": "w!",
+  "botId": "1259424416446812296",
+  "botName": "WNERS UPTİME",
+  "ownerIds": "1257104439966437438",
+  "token": "MTI1OTQyNDQxNjQ0NjgxMjI5Ng.GH37nW.d4EjMnirW4BxgKCiSCXYS9jFUDWcgUMtLrSmQY",
+  "normalLimit": 3,
+  "premiumLimit": 30,
+  "uptimeLogChannel": "1259423748835246152",
+  "premiumLogChannel": "1259423833182699611",
+  "blacklistLogChannel": "1259423901897719808",
+  "noWarn": true
+}
